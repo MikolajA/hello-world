@@ -1,5 +1,4 @@
 # hello-world
-hello-world repository, just a training
 
 Hello everybody!
 
